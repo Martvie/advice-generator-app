@@ -1,0 +1,26 @@
+@media (max-width: 610px) {
+    .advice-container{
+        width: 35rem;
+        height: 20rem;
+    }
+
+    .advice-title{
+        font-size: 1.2rem;
+    }
+    
+    .advice-text {
+        font-size: 1.5rem;
+    }
+
+    .dividing-line {
+        bottom: 0rem;
+    }
+    
+    .button {
+        height: 4rem;
+        width: 4rem;
+
+        position: relative;
+        bottom: -1.8rem;
+    }
+}
